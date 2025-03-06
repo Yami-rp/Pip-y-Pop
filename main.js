@@ -17,7 +17,6 @@ function addSong(songName, artistName, songUrl) {
     playList.appendChild(listSong);
 
 
-
 }
 
 //Manejo de envio de formularios (Eventos)
